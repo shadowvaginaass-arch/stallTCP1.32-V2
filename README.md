@@ -1,4 +1,4 @@
-<img width="948" height="485" alt="image" src="https://github.com/user-attachments/assets/ff5e2d7d-a753-483f-bd9f-db3a0b732913" /># StallTCP1.32V2 节点订阅管理面板 (D1 数据库增强版)
+# StallTCP1.32V2 节点订阅管理面板 (D1 数据库增强版)
 
 **这是一个基于 Cloudflare Workers / Snippets 的高级节点订阅管理与分发系统。**
 
